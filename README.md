@@ -6,8 +6,8 @@ The emphasis is on explaining the statistical methods, connecting equations to R
 
 ## View the project
 
-- [Analysis source: R Markdown](mlm_ess11.Rmd)
-- [HTML report with explanations, outputs and figures](mlm_ess11.html)
+- [Read the full report online](https://fjodorpavlovics.github.io/ess11-multilevel-modelling/mlm_ess11.html)
+- [View the R Markdown source](mlm_ess11.Rmd)
 
 To read the rendered report, download the HTML file and open it in a web browser.
 
