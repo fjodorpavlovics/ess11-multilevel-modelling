@@ -37,9 +37,7 @@ The analysis uses the integrated European Social Survey Round 11 dataset. The da
 
 ```{r import-data}
 # Import the complete ESS Round 11 dataset.
-ess_raw <- read.csv(
-  "C:/Users/balazs.vencz/OneDrive - elte.hu/2025 ősz/Szakdolgozat/EESS1 (23-24)/sem/ESS11e04_1/ESS11e04_1.csv"
-)
+ess_raw <- read.csv("ESS11.csv")
 ```
 
 ## ESS analysis weight
